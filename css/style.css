@@ -1,0 +1,11 @@
+#leftarr{
+    background-image: url("img/arr-left.png");
+    height: 40px;
+    width: 40px;
+}
+
+#rightarr{
+    background-image: url("img/arr-right.png");
+    height: 40px;
+    width: 40px;
+}
