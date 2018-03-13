@@ -41,6 +41,11 @@
 
 })(jQuery); // End of use strict
 
+var clicked_id = 0;
+function reply_click(clicked_id) {
+  console.log(clicked_id);
+}
+
 // Google Maps Scripts
 var map = null;
 // When the window has finished loading create our google map below
